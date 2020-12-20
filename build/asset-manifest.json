@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/emiu/static/css/main.ab2501cf.chunk.css",
+    "main.js": "/emiu/static/js/main.384bc46e.chunk.js",
+    "main.js.map": "/emiu/static/js/main.384bc46e.chunk.js.map",
+    "runtime-main.js": "/emiu/static/js/runtime-main.d18a887b.js",
+    "runtime-main.js.map": "/emiu/static/js/runtime-main.d18a887b.js.map",
+    "static/css/2.9522b9fe.chunk.css": "/emiu/static/css/2.9522b9fe.chunk.css",
+    "static/js/2.9dc9cbfd.chunk.js": "/emiu/static/js/2.9dc9cbfd.chunk.js",
+    "static/js/2.9dc9cbfd.chunk.js.map": "/emiu/static/js/2.9dc9cbfd.chunk.js.map",
+    "index.html": "/emiu/index.html",
+    "precache-manifest.cb5a83012a8b2df97e8b3739c3223baa.js": "/emiu/precache-manifest.cb5a83012a8b2df97e8b3739c3223baa.js",
+    "service-worker.js": "/emiu/service-worker.js",
+    "static/css/2.9522b9fe.chunk.css.map": "/emiu/static/css/2.9522b9fe.chunk.css.map",
+    "static/css/main.ab2501cf.chunk.css.map": "/emiu/static/css/main.ab2501cf.chunk.css.map",
+    "static/js/2.9dc9cbfd.chunk.js.LICENSE.txt": "/emiu/static/js/2.9dc9cbfd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d18a887b.js",
+    "static/css/2.9522b9fe.chunk.css",
+    "static/js/2.9dc9cbfd.chunk.js",
+    "static/css/main.ab2501cf.chunk.css",
+    "static/js/main.384bc46e.chunk.js"
+  ]
+}
